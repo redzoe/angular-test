@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"express"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"con",
+				"conversationId"
+			],
+			[
+				"cont",
+				"controller	controller"
+			],
+			[
+				"rst",
+				"rst_check"
+			],
+			[
+				"chec",
+				"checkAll"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"fin",
+				"function"
+			],
+			[
+				"pre",
+				"prev  (function)"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"cre",
+				"createTokenId  (function)"
+			],
+			[
+				"po",
+				"post	post"
+			],
+			[
+				"ini",
+				"initData"
+			],
+			[
+				"post",
+				"post	post"
+			],
+			[
+				"create",
+				"createConversation  (function)"
+			],
+			[
+				"succ",
+				"successPop"
+			],
+			[
+				"ejs",
+				"ejsPath"
+			],
+			[
+				"crea",
+				"createConversation  (function)"
+			],
+			[
+				"conte",
+				"contextPath"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"conversationId  (variable)"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"rs",
+				"rst2"
+			],
+			[
+				"_c",
+				"_combinList"
+			],
+			[
+				"a",
+				"ajaxDataHandle  (function)"
+			],
+			[
+				"data",
+				"data	.data()"
+			],
+			[
+				"sh",
+				"showMessage"
+			],
+			[
+				"get",
+				"getDictNameByKey  (function)"
+			],
+			[
+				"is",
+				"isSuccesful  (function)"
+			],
+			[
+				"co",
+				"combinId"
+			],
+			[
+				"pos",
+				"postRequest"
+			],
+			[
+				"chan",
+				"changeLan"
+			],
+			[
+				"mani",
+				"manilaClearingType"
+			],
+			[
+				"chang",
+				"changeRemarkValid"
+			],
+			[
+				"e",
+				"export"
+			],
+			[
+				"HA",
+				"HADOOP_HOME"
+			],
+			[
+				"H",
+				"HADOOP_OPTS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"selected_items":
+		[
+			[
+				"Snippet: con",
+				"Snippet: controller"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhuyan/myproject/jquery/jquery-1.12.1.js",
+		"/Users/zhuyan/Downloads/添加共享打印机.bat",
+		"/Users/zhuyan/learn/video/AngularJs/subtitles.vtt",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/common_e.js",
+		"/Users/zhuyan/Desktop/a.json",
+		"/Users/zhuyan/IBM/BOC/Tealeaf/tealeafscripts/TealeafTarget.jsp",
+		"/Users/zhuyan/Downloads/service-chooser-app.zip Folder/assets/js/script.js",
+		"/Users/zhuyan/Downloads/service-chooser-app.zip Folder/index.html",
+		"/Users/zhuyan/Downloads/service-chooser-app.zip Folder/submit.php",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/account/AccountBalance.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/lib/spine.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/transfer/TransferRequestQuery.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/transfer/TransferRequestQuery.js",
+		"/private/etc/apache2/original/httpd.conf",
+		"/Users/zhuyan/Downloads/tmp_tbl_dict.sql",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/zhuyan/IBM/BOC/WEBAG/webagbak/webagback.bat",
+		"/Users/zhuyan/Downloads/lan_login.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/数据恢复/海外/P504/lan_c.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/trunk/FTP/copy_usa504.sql",
+		"/private/etc/hosts",
+		"/Users/zhuyan/IBM/BOC/WEBAG/webag2.sql",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/PayeeMgt.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/ea504/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/ea504/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/ea504/scripts/america/controllers/individual/ServiceSetting/ModifyEmail.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/enterprise/transfer/TransferModifyRequestResult.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/transfer/TransferRequestModify.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/transfer/TransferRequest.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/enterprise/transfer/TransferRequestTips.ejs",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_c.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/tbl_validation_rules.sql",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/reg.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_C.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p501/formValid.js",
+		"/Users/zhuyan/IBM/BOC/BOCCOP/p501/WebContent/scripts/lib/formValid.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_t.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_T.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_r.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_R.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_p.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_P.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_k.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_K.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_j.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_J.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_f.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_F.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_d.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_D.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/lan_c.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/lan_help.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/MySQL/my.ini",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_c.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/lan_e.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/海外/P504/reg_E.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/webag20128.sql",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/formValid.txt",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/formValid.json",
+		"/Users/zhuyan/IBM/BOC/WEBAG/个人e/p502/formValid.js",
+		"/Users/zhuyan/IBM/BOC/WEBAG/MySQL/bin/mysqld.exe",
+		"/Volumes/zyWD/IBM/pbc/PBC results 2013.txt",
+		"/Volumes/zyWD/IBM/pbc/PBC.txt",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js",
+		"/Users/zhuyan/software/SN_OmniGraffle_6.txt",
+		"/Users/zhuyan/Downloads/GloTodayCpBalanceResDownload.csv-2.txt",
+		"/Users/zhuyan/Downloads/GloTodayCpBalanceResDownload.csv.txt",
+		"/Users/zhuyan/Downloads/GloTodayCpBalanceResDownload.csv-3.txt",
+		"/Users/zhuyan/myproject/Spring/SpringMvc/src/com/controller/HelloWordController.java",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/common/ModifyPassword.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/transfer/TransferRequestCancel.js",
+		"/Users/zhuyan/software/配置文件/httpd.conf.peizhi",
+		"/Users/zhuyan/myprogram/apache/logs/error.log",
+		"/private/etc/apache2/users/zhuyan.conf",
+		"/private/etc/apache2/extra/httpd-userdir.conf",
+		"/private/etc/apache2/extra/proxy-html.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/SelfMgt/PayeeMgt.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/payee/PayeeMgt_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/src/com/bocny/model/response/OveBatchConsignTransferTypeQueryResult.java",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/lib/lan_c.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/config/a_controllers_e.json",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/TransLimit_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/MessageChannel_success.ejs",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/User/post.sublime-snippet",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/node_modules/.bin/grunt-regex-replace",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/MessageChannel_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyMobile.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/individual/BankAccount/cOverview.js",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/User/controller.sublime-snippet",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/Welcome.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/TransLimit.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/MessageChannel.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/controllers/enterprise/SelfMgt/BillSend.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/html/对公-自助管理_SelfMgt/通知渠道设置_informChannelSetting/06_07 通知渠道设置.html",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/SelfMgt/ModifyPassword.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/config/a_controllers.json",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/BillSend_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/ModifyEmail_success.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/ModifyEmail_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/account/TodayTransaction.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/BIllSend_success.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/america/menu-enterprise.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/account/HistoryTransaction.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/SingaporePay/cLauchPayRequest.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/ModifyMobile_success.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/ModifyMobile_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/html/对公-自助管理_SelfMgt/修改邮箱_modifyEmail/06_03 修改邮箱.html",
+		"/Users/zhuyan/IBM/BOC/BOCEA/html/对公-自助管理_SelfMgt/修改电话_modifyTelephone/06_04 修改电话.html",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/enterprise/SelfMgt/payee/payeeModify_main.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/enterprise/SelfMgt/ModifyPassword_main.ejs",
+		"/Users/zhuyan/myproject/soufangdata/kmeans/newsbeijing.sorted.txt",
+		"/Users/zhuyan/myproject/soufangdata/bbs/beijingclass.txt",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/enterprise/SelfMgt/ModifyPassword_modSuccess.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/enterprise/SelfMgt/ModifyPassword_main.ejs",
+		"/Users/zhuyan/myproject/soufangdata/bbs/beijing.txt",
+		"/Users/zhuyan/myproject/ML/word2vec_result/obeijing.sorted.txt",
+		"/Users/zhuyan/myproject/ML/word2vec_result/obeijing.txt",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/Tagify/Default (OSX).sublime-keymap",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/zhuyan/Library/Application Support/Sublime Text 2/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/config/controllers_e.json",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/SelfMgt/Welcome.js",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/templates/america/common/a_notice_input_e.ejs",
+		"/Users/zhuyan/IBM/BOC/BOCEA/p504/workspace/WebContent/scripts/controllers/enterprise/bpay/cBPayRequestAuthorize.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"payerCur",
+			"status",
+			"orginaleEmail",
+			"subDesc",
+			"payerType",
+			"exchange",
+			"payerCur",
+			"modifyRequestPage",
+			"ta_fuyan_modify",
+			"modifyRequestResult",
+			"228\n228\n228",
+			"tips0375",
+			"0375",
+			"375",
+			"745",
+			"tips0",
+			"log-bin",
+			"Directory",
+			"documentroot",
+			"document",
+			"htaccess",
+			"Allow Override all",
+			"LoadModule userdir_module libexec/apache2/mod_userdir.so",
+			"ServerName",
+			"vhost",
+			"proxy_",
+			"listen",
+			"proxy",
+			"Directory",
+			"Include /private/etc/apache2/extra/httpd-vhosts.conf",
+			"ErrorLog",
+			"DocumentRoot",
+			"<Directory ",
+			"addPayee",
+			"PayeeInfoClass",
+			"modifyPayee",
+			"viewPayeeDetail",
+			"serviceType",
+			"BankAccountOverviewAliasOk",
+			"mt2",
+			"				\n",
+			"billMethodList_0",
+			");\n",
+			"accountList",
+			"createcon",
+			"账单寄送设置",
+			"selector",
+			"+f",
+			"beautiful",
+			"Common",
+			"failCallbacks",
+			"btn_confirmmodification_1524",
+			"();\n",
+			"22",
+			"arrays",
+			"payeeSelected",
+			"changefuyanvalid",
+			"manilaPurposeCount",
+			"li_manila_purpose",
+			"detail",
+			"付款类型",
+			"经手人",
+			"modifyRequestPage",
+			"modifyInit",
+			"transModify",
+			"汇款类型",
+			"payerPost",
+			"bop",
+			"付款类型",
+			"showFundTransPur",
+			"changeSummaryValid\npayeeSelected",
+			"changeSummaryValid",
+			"changeRemarkValid",
+			"收款人",
+			"profile",
+			"HADOOP_HOME",
+			"鸿 坤",
+			"-0.011315245577010748,-1.578605011296623E-4",
+			"-0.011315245577010748,-1.578605011296623E-4,-0.005564579672742844,0.016191271860361452,0.01978754573944716,-0.05528030827216633,0.01492433515052223,-0.019371402455900064,0.04527433735929161,0.0019139077841929307,-0.026941929027171217,-0.060526499799677516,-0.015462739274756996,-0.0036704395697700026,0.03334112746113004,-0.015034603753271905,0.043648675997786095,0.013096118053912349,-0.0496984791206094,-0.03306229313831305,0.02478683777107963,0.012924624521828833,0.01269053861907355,0.03275188387807205,-0.00933027838520232,0.005787121707202741,0.005875609945196672,-0.02416928210282274,-3.209101980748657E-4,0.003388270396768754,0.0023155508796943018,0.004218377818759461,-0.01708621544916775,-0.016870548420339037,0.02365859938145746,-0.013935714876409986,-0.030413160597512617,0.003588086584869686,0.009920200251268059,0.024001919939858774,-0.0025889433425147165,-0.059736698504397556,0.006226190488180883,-0.02037572149197008,-0.021979407884095904,-0.027135911014607744,0.011475204448228136,-0.025332224357082166,0.0068029884783142",
+			"[",
+			"Cluster centers",
+			"HADOOP_HOME",
+			"Djava.library.path=",
+			"-0.044871192 -0.03036069 0.206604 0.003543046 -0.032019306 -0.046566658 ",
+			"tmp_tbl_entities",
+			"tmp_tbl_dict",
+			"tmp_tbl_modules",
+			"tmp_tbl_default_tip",
+			"ue",
+			"ue305",
+			"1_ue",
+			"4_ue305",
+			"tmp_tbl_modules",
+			"ue",
+			"ue305",
+			"tmp_tbl_entities",
+			"tmp_tbl_modules",
+			"ue",
+			"ue305",
+			"tmp_tbl_dict",
+			"ue",
+			"ue305",
+			"tmp_tbl_default_tip",
+			"ue",
+			"ue305",
+			"tmp_tbl_entities",
+			"ue",
+			"ue305",
+			"tmp_tbl_dict",
+			"ue",
+			"ue305",
+			"ue'",
+			"cop404'",
+			"cop403'",
+			"cop501'",
+			"cop405'",
+			"cop'",
+			"coptl'",
+			"cop405'",
+			"cop404'",
+			"cop403'",
+			"cop402'",
+			"cop501",
+			"tmp_tbl_modules",
+			"ue",
+			"ue305",
+			"tmp_tbl_default_tip",
+			"ue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tbl_entities",
+			"tbl_dict",
+			"tbl_modules",
+			"tbl_default_tip",
+			"ea405",
+			"usa504",
+			"14_ea405",
+			"21_usa504",
+			"tbl_modules",
+			"ea501",
+			"ea502",
+			"tbl_entities",
+			"tbl_modules",
+			"ea501",
+			"ea502",
+			"tbl_dict",
+			"ea501",
+			"ea502",
+			"tbl_default_tip",
+			"ea501",
+			"ea502",
+			"tbl_entities",
+			"cop501",
+			"cop502",
+			"tbl_dict",
+			"cop501",
+			"cop502",
+			"tbl_modules",
+			"cop501",
+			"cop502",
+			"tbl_default_tip",
+			"cop501",
+			"cop502"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.922677761766,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"spine",
+				"WebContent/scripts/lib/spine.js"
+			],
+			[
+				"common_e.js",
+				"WebContent/scripts/common_e.js"
+			],
+			[
+				"transferrequestquery",
+				"WebContent/scripts/america/controllers/enterprise/transfer/TransferRequestQuery.js"
+			],
+			[
+				"tranferrequestqu",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequestQuery.js"
+			],
+			[
+				"modifyema",
+				"ea504/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js"
+			],
+			[
+				"modifyemail",
+				"ea504/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js"
+			],
+			[
+				"modifypass",
+				"ea504/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js"
+			],
+			[
+				"payee",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/PayeeMgt.js"
+			],
+			[
+				"transfermodifyrequestresult",
+				"WebContent/templates/enterprise/transfer/TransferModifyRequestResult.ejs"
+			],
+			[
+				"transferrequestmo",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequestModify.js"
+			],
+			[
+				"transferre",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequest.js"
+			],
+			[
+				"requtip",
+				"WebContent/templates/enterprise/transfer/TransferRequestTips.ejs"
+			],
+			[
+				"requesttip",
+				"WebContent/templates/enterprise/transfer/TransferRequestTips.ejs"
+			],
+			[
+				"modifypassword.js",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js"
+			],
+			[
+				"transferrequestq",
+				"WebContent/scripts/america/controllers/enterprise/transfer/TransferRequestQuery.js"
+			],
+			[
+				"common_e",
+				"WebContent/scripts/common_e.js"
+			],
+			[
+				"transferrequecan",
+				"WebContent/scripts/america/controllers/enterprise/transfer/TransferRequestCancel.js"
+			],
+			[
+				"ovebatchconsigntransfertypequery",
+				"src/com/bocny/model/response/OveBatchConsignTransferTypeQueryResult.java"
+			],
+			[
+				"",
+				"node_modules/.bin/grunt-regex-replace"
+			],
+			[
+				"payeemgt_main",
+				"WebContent/templates/america/enterprise/SelfMgt/payee/PayeeMgt_main.ejs"
+			],
+			[
+				"payeemgt",
+				"WebContent/scripts/controllers/enterprise/SelfMgt/PayeeMgt.js"
+			],
+			[
+				"welcome.js",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/Welcome.js"
+			],
+			[
+				"transl",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/TransLimit.js"
+			],
+			[
+				"modifypa",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js"
+			],
+			[
+				"modifymobil",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyMobile.js"
+			],
+			[
+				"modifyemai",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js"
+			],
+			[
+				"messagech",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/MessageChannel.js"
+			],
+			[
+				"bills",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/BillSend.js"
+			],
+			[
+				"payeem",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/PayeeMgt.js"
+			],
+			[
+				"translimit_m",
+				"WebContent/templates/america/enterprise/SelfMgt/TransLimit_main.ejs"
+			],
+			[
+				"cover",
+				"WebContent/scripts/controllers/individual/BankAccount/cOverview.js"
+			],
+			[
+				"mess",
+				"WebContent/templates/america/enterprise/SelfMgt/MessageChannel_success.ejs"
+			],
+			[
+				"message",
+				"WebContent/templates/america/enterprise/SelfMgt/MessageChannel_success.ejs"
+			],
+			[
+				"modifye",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyEmail.js"
+			],
+			[
+				"mo",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyMobile.js"
+			],
+			[
+				"bils",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/BillSend.js"
+			],
+			[
+				"messag",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/MessageChannel.js"
+			],
+			[
+				"a_con",
+				"WebContent/config/a_controllers_e.json"
+			],
+			[
+				"controller",
+				"WebContent/config/a_controllers.json"
+			],
+			[
+				"menu",
+				"WebContent/scripts/america/menu-enterprise.js"
+			],
+			[
+				"billse",
+				"WebContent/templates/america/enterprise/SelfMgt/BIllSend_success.ejs"
+			],
+			[
+				"lan_c",
+				"WebContent/scripts/lib/lan_c.js"
+			],
+			[
+				"payre",
+				"WebContent/scripts/controllers/enterprise/SingaporePay/cLauchPayRequest.js"
+			],
+			[
+				"historytran",
+				"WebContent/scripts/controllers/enterprise/account/HistoryTransaction.js"
+			],
+			[
+				"todaytran",
+				"WebContent/scripts/controllers/enterprise/account/TodayTransaction.js"
+			],
+			[
+				"commo",
+				"WebContent/scripts/common_e.js"
+			],
+			[
+				"controller_",
+				"WebContent/config/a_controllers_e.json"
+			],
+			[
+				"modifyea",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyEmail_main.ejs"
+			],
+			[
+				"modifymobi",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyMobile.js"
+			],
+			[
+				"modifymob",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyMobile_success.ejs"
+			],
+			[
+				"modifymobile",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyMobile_main.ejs"
+			],
+			[
+				"mpdify",
+				"WebContent/templates/enterprise/SelfMgt/payee/payeeModify_main.ejs"
+			],
+			[
+				"modifym",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyMobile.js"
+			],
+			[
+				"modifypassword_",
+				"WebContent/templates/enterprise/SelfMgt/ModifyPassword_modSuccess.ejs"
+			],
+			[
+				"modifypassword_main",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyPassword_main.ejs"
+			],
+			[
+				"modifyemail_m",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyEmail_main.ejs"
+			],
+			[
+				"modifypassword",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js"
+			],
+			[
+				"modify",
+				"WebContent/scripts/america/controllers/enterprise/SelfMgt/ModifyPassword.js"
+			],
+			[
+				"a_noti",
+				"WebContent/templates/america/common/a_notice_input_e.ejs"
+			],
+			[
+				"cbpayre",
+				"WebContent/scripts/controllers/enterprise/bpay/cBPayRequestAuthorize.js"
+			],
+			[
+				"modifypassword_confirm",
+				"WebContent/templates/america/enterprise/SelfMgt/ModifyPassword_confirm.ejs"
+			],
+			[
+				"c",
+				"WebContent/scripts/common_e.js"
+			],
+			[
+				"wel",
+				"WebContent/scripts/controllers/enterprise/SelfMgt/Welcome.js"
+			],
+			[
+				"welcome_modsuccess",
+				"WebContent/templates/america/enterprise/SelfMgt/Welcome_modSuccess.ejs"
+			],
+			[
+				"welcoe.js",
+				"WebContent/scripts/controllers/enterprise/SelfMgt/Welcome.js"
+			],
+			[
+				"transferaut",
+				"WebContent/templates/enterprise/transfer/TransferAuthNormalViewRequestDetail.ejs"
+			],
+			[
+				"transferrequestm",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequestModify.js"
+			],
+			[
+				"ovequeryde",
+				"src/com/bocny/model/response/OveQueryDetailResult.java"
+			],
+			[
+				"tranferrequ",
+				"WebContent/templates/enterprise/transfer/TransferRequestMain.ejs"
+			],
+			[
+				"transferrequestmai",
+				"WebContent/templates/enterprise/transfer/TransferRequestMain.ejs"
+			],
+			[
+				"transferrequestquery_detail.ejs",
+				"WebContent/templates/enterprise/transfer/TransferRequestQuery_detail.ejs"
+			],
+			[
+				"trans",
+				"WebContent/templates/enterprise/transfer/TransferRequestResult.ejs"
+			],
+			[
+				"transmo",
+				"WebContent/templates/enterprise/transfer/TransferModifyRequestDetail.ejs"
+			],
+			[
+				"tansferauthno",
+				"WebContent/templates/enterprise/transfer/TransferAuthNormalViewRequestDetail.ejs"
+			],
+			[
+				"tranferr",
+				"WebContent/templates/enterprise/transfer/TransferRequestMain.ejs"
+			],
+			[
+				"transfermodifyrequestdetail",
+				"WebContent/templates/enterprise/transfer/TransferModifyRequestDetail.ejs"
+			],
+			[
+				"transfermodifymain",
+				"WebContent/templates/enterprise/transfer/TransferModifyMain.ejs"
+			],
+			[
+				"transferrequestmodify",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequestModify.js"
+			],
+			[
+				"transferreq",
+				"WebContent/scripts/controllers/enterprise/transfer/TransferRequest.js"
+			],
+			[
+				"transferrequestmain",
+				"WebContent/templates/enterprise/transfer/TransferRequestMain.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
